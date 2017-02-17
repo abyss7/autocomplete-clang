@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "atom-space-pen-views": "^2.2.0",
-    "clang-flags": "0.2.2"
+    "clang-flags": "git+https://github.com/abyss7/clang-flags.git"
   },
   "providedServices": {
     "autocomplete.provider": {
