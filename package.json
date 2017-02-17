@@ -4,7 +4,7 @@
   "version": "0.10.0",
   "description": "autocomplete for C/C++/ObjC using clang",
   "activationCommands": [],
-  "repository": "https://github.com/yasuyuky/autocomplete-clang",
+  "repository": "https://github.com/abyss7/autocomplete-clang",
   "license": "MIT",
   "engines": {
     "atom": "^1.0.0"
